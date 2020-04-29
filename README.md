@@ -12,6 +12,6 @@ Each module is listed in an ascending order on different topics covered with typ
 
 ## Author 
 
-* [https://github.com/AemieJ](Aemie Jariwala) 
+* [Aemie Jariwala](https://github.com/AemieJ)
 
 
